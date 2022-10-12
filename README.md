@@ -1,4 +1,3 @@
-Hi, 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sayantan Kundu </h1>
 <h3 align="center">A passionate coder and full stack developer from India.</h3>
