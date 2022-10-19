@@ -7,6 +7,8 @@
 
 I am a student currently in my 3rd year pursuing B-Tech in Jadavpur University. I aspire to become a software engineer, and contribute to the community as a developer. I really enjoy learning new things and currently exploring the domain of Machine Learning and AI. I have some experience of participating in hackathons, and landed among top 3 teams in Double Slash IEEE and Hack-N-Pitch E-Summit. I have a knack for Problem-Solving, and currently belong to the top 10% coders on Leetcode. I have successfully completed Hacktoberfest 2022, after submitting 4+ Pull Requests on GitHub
 
+[![@pixel99's Holopin board](https://holopin.me/pixel99)](https://holopin.io/@pixel99)
+
  Languages:- Python, JavaScript, C++ (Basics)
  
  Interests:- Problem-solving, Web Development
@@ -66,9 +68,6 @@ I am a student currently in my 3rd year pursuing B-Tech in Jadavpur University. 
     <img src="https://komarev.com/ghpvc/?username=PiXeL99-eng">
 </a>
 <a href="https://github.com/PiXeL99-eng?tab=followers"><img src="https://img.shields.io/github/followers/PiXeL99-eng?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-## SAYANTAN KUNDU ~ owner
 
 <!---
 PiXeL99-eng/PiXeL99-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
