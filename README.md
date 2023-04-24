@@ -35,24 +35,6 @@ I am a student currently in my 3rd year pursuing B-Tech in Jadavpur University. 
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/PiXeL99-eng/github-readme-stats"><img alt="Sayantan Kundu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PiXeL99-eng&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PiXeL99-eng/github-readme-stats"><img alt="Sayantan Kundu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiXeL99-eng&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-  </br>
-  
- 
-
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/PiXeL99-eng/github-readme-activity-graph"><img alt="Sayantan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PiXeL99-eng&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
